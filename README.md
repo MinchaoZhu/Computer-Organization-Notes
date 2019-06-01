@@ -1,2 +1,2 @@
-# Initial page
-This a testing book.
+# 简介
+This is the notebook for Computer Organization study.
